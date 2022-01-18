@@ -6,7 +6,6 @@
 - 👨🏻‍💻 I'm currently learning Solidity, ethers.js & hardhat
 - 👷🏻‍♂️ I'm currently building my web-portfolio.
 - 🥅 2022 goals: Create a successful development centric youtube channel
-- 
 
 
 ### Connect with me:
