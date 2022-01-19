@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar - aka [gvirus21][website]
 
-## I am a developer from India, who loves to make apps around diffrent platforms.
+## I am a developer from India, who loves to make apps for diffrent platforms.
 
 - 💻 I'm currently working as an IOS developer
 - 🌱 I'm currently learning Solidity, ethers.js & hardhat
