@@ -1,4 +1,4 @@
-### Hi there, I am Gourav Kumar - aka [gvirus21][website]
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar - aka [gvirus21][website]
 
 ## I am a developer from India, who loves to make apps around diffrent platforms.
 
