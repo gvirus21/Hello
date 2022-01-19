@@ -3,8 +3,8 @@
 ## I am a developer from India, who loves to make apps around diffrent platforms.
 
 - 💻 I'm currently working as an IOS developer
-- 👨🏻‍💻 I'm currently learning Solidity, ethers.js & hardhat
-- 👷🏻‍♂️ I'm currently building my web-portfolio.
+- 🌱 I'm currently learning Solidity, ethers.js & hardhat
+- 👨🏻‍💻 I'm currently building my web-portfolio.
 - 🥅 2022 goals: Create a successful development centric youtube channel
 
 
