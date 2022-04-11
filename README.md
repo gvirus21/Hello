@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Solidity, hardhat & building dapps.
 - 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
 - 🐦 Exploring web3 space and connecting with people.
-- 👨🏻‍💻 I'm also building my web portfolio [here][website](still building).
+- 👨🏻‍💻 I'm also building my web portfolio [here][website] (still building).
 - 📧 You can email me here: gouravkumar21.dev@gmail.com
 
 ### Connect with me:
