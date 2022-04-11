@@ -1,11 +1,12 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar - aka [gvirus21][website]
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar
 
 ## I am a Smart contract developer from India
 
 - 🌱 I'm currently learning Solidity, hardhat & building dapps.
 - 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
 - 🐦 Exploring web3 space and connecting with people.
-- 👨🏻‍💻 I'm also building my web portfolio.
+- 👨🏻‍💻 I'm also building my web portfolio [here][website](still building).
+- 📧 You can email me here: gouravkumar21.dev@gmail.com
 
 ### Connect with me:
 
