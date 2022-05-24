@@ -2,10 +2,11 @@
 
 ## I am a Smart contract developer from India
 
+- 🧑🏻‍💻 Working Full-time at BanklessDAO
 - 🌱 I'm currently learning Solidity, hardhat & building dapps.
 - 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
 - 🐦 Exploring web3 space and connecting with people.
-- 👨🏻‍💻 I'm also building my web portfolio [here][website] (still building).
+- 💻 I'm also building my web portfolio [here][website] (still building).
 
 ### Connect with me:
 
