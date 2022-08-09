@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar
 
-## I am a Smart contract developer from India
+## I am a Web3 Frontend developer from India
 
 - 🧑🏻‍💻 Working Full-time at BanklessDAO
 - 🌱 I'm currently learning Solidity, hardhat & building dapps.
