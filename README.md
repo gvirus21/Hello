@@ -2,7 +2,7 @@
 
 ## I am a Web3 Frontend developer from India
 
-- 🧑🏻‍💻 Working Full-time at BanklessDAO
+- 🧑🏻‍💻 Working at Canto.io
 - 🌱 I'm currently learning Solidity, hardhat & building dapps.
 - 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
 - 🐦 Exploring web3 space and connecting with people.
