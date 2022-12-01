@@ -2,17 +2,16 @@
 
 ## I am a Web3 Frontend developer from India
 
-- 🧑🏻‍💻 Working at Canto.io
-- 🌱 I'm currently learning Solidity, hardhat & building dapps.
+- 🌱 I'm currently learning Solidity & Hardhat
 - 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
 - 🐦 Exploring web3 space and connecting with people.
-- 💻 I'm also building my web portfolio [here][website] (still building).
+- 💻 You can checkout my portfolio website [here][website]
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [website]: https://www.gourav-kumar.com
