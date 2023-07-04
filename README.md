@@ -2,10 +2,7 @@
 
 ## I am a Web3 Frontend developer from India
 
-- 🌱 I'm currently learning Solidity & Hardhat
-- 🏋️‍♂️ Working on best practices for building smart contracts & Dapps.
-- 🐦 Exploring web3 space and connecting with people.
-- 💻 You can checkout my portfolio website [here][website]
+💻 You can check out my portfolio website [here][website]
 
 ### Connect with me:
 
