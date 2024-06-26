@@ -9,14 +9,14 @@ My Weapons are ⚔️:
 
 
 ### Connect with me:
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+<a href="https://twitter.com/GouravKumarDev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+<a href="https://www.linkedin.com/in/gouravkumar-21/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+<a href="https://www.gourav-kumar.com">
+    <img src="https://skillicons.dev/icons?i=globe" />
 </a>
 
 
