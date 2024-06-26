@@ -1,6 +1,8 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav Kumar
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav, I am a Frontend web developer from India.
 
-## I am a Web3 Frontend developer from India
+My Weapons are ⚔️: 
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git" />
 
 💻 You can check out my portfolio website [here][website]
 
