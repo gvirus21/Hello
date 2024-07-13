@@ -1,5 +1,9 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Gourav, I am a Frontend web developer from India.
 
+- I've Collaborated With Major Web3 Organizations Around The World, Like BanklessDAO And ForefrontDAO.
+- I Participated In The RoadToWeb3 & many other hackathons, Where My Team And I Built Awesome Projects And Walked Away With Some Cool Goodies.
+
+
 My Weapons are ⚔️: 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git" />
